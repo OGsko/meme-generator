@@ -1,0 +1,15 @@
+.outerContainer {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.imgContainer {
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+
